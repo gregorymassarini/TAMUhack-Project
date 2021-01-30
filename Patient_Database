@@ -1,4 +1,4 @@
-CREATE DATABASE tamuHACK;
+CREATE DATABASE patientDB;
 
 CREATE TABLE patient_data (
   FirstName varchar(255),
