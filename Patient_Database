@@ -1,0 +1,11 @@
+CREATE DATABASE patientDB;
+
+CREATE TABLE patient_data (
+  FirstName varchar(255),
+  LastName varchar(255),
+  DateOfBirth
+  Ethnicity varchar(255),
+  SSN
+  Email varchar(255),
+  Password varchar(255),
+);
