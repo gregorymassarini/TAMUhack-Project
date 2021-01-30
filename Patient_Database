@@ -6,7 +6,6 @@ CREATE TABLE patient_data (
   DateOfBirth
   Ethnicity varchar(255),
   SSN
-  Email
-  Password
-  Notifications
+  Email varchar(255),
+  Password varchar(255),
 );
