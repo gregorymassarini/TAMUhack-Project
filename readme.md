@@ -1,0 +1,14 @@
+## Inspiration
+From experience being the primary caregiver of family, there has been times where important medical information was not known or readily available when needed. It is difficult to treat a patient when the medical history or current medications are not known. Therefore, we wanted to focus on creating a platform that can streamline the storing and sharing of this data.
+## What it does
+Provides a platform where important medical information such as diagnosis history, procedures, and medication can be easily stored and shared with healthcare providers. Ensures the protection of patient data, by not sharing unless given consent through platform.
+## How we built it
+We began by developing a mock-up using Figma. We then began developing the framework for a website using html, followed by making database using sql. We created a domain name through domain.com and selected google cloud platform as the host. 
+## Challenges we ran into
+As business majors, we have strong analytical skills but have had limited coding experiences. This was our first hackathon, so everything we developed on this project we learned in 24 hours. Due to the event's time constraint, not all of our plans for the project were fully realized. We were unable to finish developing a working wordpress website on the domain we created. We were also not able to link the website and database due to a lack of experience in API and a quickly approaching deadline. This was definitely a challenging event that put our project time management skills to the test.
+## Accomplishments that we're proud of
+WE FINISHED OUR FIRST HACKATHON!!! While it was a steep learning curve, we were able to come together as a team and develop a product from the ground up. This was an amazing learning experience, and we are proud of the effort and time we put into it.
+## What we learned
+We learned so much during the TAMUhack! Every tool we used to develop this project was new to us, so needless to say we struggled but learned so much. We learned to create mock-ups using figma, how to create a webpage framework using html, how to create a database using sql, how to create a domain , and host a webpage.
+## What's next for The Cookie Jar
+It is our plan to develop the website through wordpress on the domain we set up and to create an app  that can be easily used on smart phones.  We need to learn to build an API, making it possible to update and edit the database using the website/app. In order to develop our infrastructure with medical providers and hospital systems, we need to create a network of partners that will expand the apps reach.
