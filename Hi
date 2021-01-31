@@ -1,3 +1,12 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+Hi
+omo
+OmO
+cookies 
+=======
+>>>>>>> Stashed changes
 <!DOCTYPE html>
 <html lang="en">
 <title>W3.CSS Template</title>
@@ -95,3 +104,7 @@ function myFunction() {
 
 </body>
 </html>
+<<<<<<< Updated upstream
+=======
+>>>>>>> 51be2f591a28abd1a474b3a76cade6b17c7b6c22
+>>>>>>> Stashed changes
